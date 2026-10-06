@@ -1,0 +1,10 @@
+{
+  "description": "Book bus tickets and explore tourist tours with an easy-to-use interface offering seat selection, multiple payment options, and digital ticketing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
